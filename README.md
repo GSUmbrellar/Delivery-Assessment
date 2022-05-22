@@ -24,4 +24,8 @@ For the Theory-based assessment, we would like you to review the PDF below.
 
 
 
-Please download this file. Using a PDF editor you can fill out the file with the answers to each question. 
+Please download this file. Using a PDF editor you can fill out the file with the answers to each question. The link below is for a online PDF editor if you do not have 1. 
+
+https://www.sejda.com/pdf-editor
+
+Please forward your answers to the hiring manager once completed.
