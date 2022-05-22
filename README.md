@@ -2,10 +2,10 @@
 
 # Umbrellar Delivery-Assessment
 
-This repository contains 2 challenges, 1 theory & 1 interactive. These assessments together will give us a better understanding of your technical ability as well as how you would work in a Umbrellar environment.
+This repository contains 2 challenges, 1 theory & 1 practical. These assessments together will give us a better understanding of your technical ability as well as how you would work in a Umbrellar environment.
 
 
-# Interactive IaC assessment
+# Practical IaC assessment
 
 For the interactive assessment, we would like you to review the design below. 
 
