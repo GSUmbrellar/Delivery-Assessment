@@ -1,3 +1,5 @@
+![alt text](https://www.umbrellar.com/themes/default/img/umbrellar-logo-full.svg "Title")
+
 # Umbrellar Delivery-Assessment
 
 This repository contains 2 challenges, 1 theory & 1 interactive. These assessments together will give us a better understanding of your technical ability as well as how you would work in a Umbrellar environment.
