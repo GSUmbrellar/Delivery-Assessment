@@ -1,13 +1,13 @@
-# Delivery-Assessment
+# Umbrellar Delivery-Assessment
 
 This repository contains 2 challenges, 1 theory & 1 interactive. These assessments together will give us a better understanding of your technical ability as well as how you would work in a Umbrellar environment.
 
 
-**Interactive IaC assessment**
+# Interactive IaC assessment
 
 For the interactive assessment, we would like you to review the design below. 
 
-https://github.com/GSUmbrellar/Delivery-Assessment/blob/main/Interactive%20IaC%20assessment.pdf
+**https://github.com/GSUmbrellar/Delivery-Assessment/blob/main/Interactive%20IaC%20assessment.pdf**
 
 After reviewing this design we would like you to build out the Virtual network, subnets, NSG groups, NSG rules & then a VM which matches the design using 1 of the following IaC languages. 
 
@@ -16,9 +16,9 @@ After reviewing this design we would like you to build out the Virtual network, 
 * Ansible
 * ARM
 
-Please forward the code file to the hiring manager once completed. Please note you do not have to deploy this in Azure or provide evidence of this. 
+Please forward the code file to the hiring manager once completed. Please note you do not have to deploy this in Azure or provide evidence of this. # 
 
-**Theory assessment**
+# Theory assessment
 
 For the Theory-based assessment, we would like you to review the PDF below. 
 
