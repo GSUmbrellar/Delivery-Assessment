@@ -7,6 +7,8 @@ This repository contains 2 challenges, 1 theory & 1 interactive. These assessmen
 
 For the interactive assessment, we would like you to review the design below. 
 
+https://github.com/GSUmbrellar/Delivery-Assessment/blob/main/Interactive%20IaC%20assessment.pdf
+
 After reviewing this design we would like you to build out the Virtual network, subnets, NSG groups, NSG rules & then a VM which matches the design using 1 of the following IaC languages. 
 
 * Azure CLI
