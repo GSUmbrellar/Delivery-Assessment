@@ -22,7 +22,7 @@ Please forward the code file to the hiring manager once completed. Please note y
 
 For the Theory-based assessment, we would like you to review the PDF below. 
 
-
+https://github.com/GSUmbrellar/Delivery-Assessment/blob/main/Delivery%20Engineer%20theory%20assessment.pdf
 
 Please download this file. Using a PDF editor you can fill out the file with the answers to each question. The link below is for a online PDF editor if you do not have 1. 
 
